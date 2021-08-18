@@ -1,0 +1,30 @@
+[
+  {
+    "name": "宋体",
+    "enName": "SimSun"
+  },
+  {
+    "name": "黑体",
+    "enName": "SimHei"
+  },
+  {
+    "name": "微软雅黑",
+    "enName": " Microsoft Yahei"
+  },
+  {
+    "name": "微软正黑体",
+    "enName": "Microsoft JhengHei"
+  },
+  {
+    "name": "楷体",
+    "enName": "KaiTi"
+  },
+  {
+    "name": "新宋体",
+    "enName": "NSimSun"
+  },
+  {
+    "name": "仿宋",
+    "enName": "FangSong"
+  }
+]
